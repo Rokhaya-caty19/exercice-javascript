@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(227, 238, 238);
+   margin:auto;
+   width:80%;
+   background-size: 1500px;
+   font-size:larger;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   width: 200px;
+}
+li {
+    display: inline;
+   
+}
+    .contenair{
+       background-color: #f7eef2;
+        border: solid 1px;
+        padding: 10px;
+        float : left;
+        width:100%;
+        margin: auto;
+        text-align:center;
+    }
+    .content{
+        width:100%;
+        float: left;
+        background-color:rgb(250, 248, 244)
+      
+        
+    }
+    .head{
+        width:  100px; 
+    }
+    table{
+        margin: auto;
+    }
+    
